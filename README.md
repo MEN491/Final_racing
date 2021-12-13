@@ -2,6 +2,7 @@
 
 # Caution
 pure_pursuit2_ver10 is used with waypoint_2_ver4.
+pure_pursuit_2_ver12 is used with waypoint_2_ver5.
 If you want to utilize waypoint_2_ver4, please change file name in pure_pursuti2, or _ver10, and cubic_spline_planner
 
 Fine tuning of look ahead and target speed for pure pursuit is in search_target_index in TargetCourse class.
